@@ -1,3 +1,15 @@
+📢 Get Started with the App 🚀
+
+✅ To start using the app, first enter your API Key 🔑.
+
+⚙️ Steps to Begin:
+1️⃣ Open the app 📱
+2️⃣ Navigate to Settings ⚙️
+3️⃣ Enter your API Key 🔐
+4️⃣ Save & Start Exploring 🚀
+
+⚠️ Note: Your API Key is required for full functionality. Make sure to keep it secure! 🔒
+
 # 🌟 AI Image Generator
 
 This project is a web-based **AI Image Generator** that uses **Hugging Face** models to generate images based on user-inputted prompts. Users can select different models, specify aspect ratios, and choose the number of images to generate. The project also features a **🌙 Dark Mode Toggle** and allows users to refresh images individually.
