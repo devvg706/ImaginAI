@@ -24,17 +24,15 @@ This project is a web-based **AI Image Generator** that uses **Hugging Face** mo
 
 ---
 
-## 🚀 Installation and Setup
+## 🔗 API Endpoint
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/ai-image-generator.git
-   ```
-2. **Navigate to the project directory:**
-   ```sh
-   cd ai-image-generator
-   ```
-3. **Open the ************`index.html`************ file in a web browser.**
+The project uses the **Hugging Face Inference API** for image generation. The API endpoint is:
+
+```sh
+https://router.huggingface.co/hf-inference/models/{model_name}
+```
+
+Replace `{model_name}` with the selected AI model you wish to use.
 
 ---
 
